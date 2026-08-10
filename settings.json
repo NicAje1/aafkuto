@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "dadanoda.aternos.me:35020",
+    "ip": "mandrill.aternos.host:35020",
     "port": 35020,
     "version": "",
     "try-creative": false
