@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "dadanoda.aternos.me:",
+    "ip": "dadanoda.aternos.me",
     "port": 35020,
     "version": "",
     "try-creative": false
